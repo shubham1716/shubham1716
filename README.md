@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham1716&label=Profile%20views&color=0e75b6&style=flat" alt="shubham1716" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham1716" alt="shubham1716" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=shubham1716"><img src="https://github-profile-trophy.vercel.app/?username=shubham1716" alt="shubham1716" /></a> </p>
 
 - 🌱 I’m currently learning **DSA , WEB DEVELOPMENT**
 
-- 📫 How to reach me **shubhamk7640@gmail.com**
+- 📫 How to reach me **shubhamjob77@gmail.com**
 - <!-- Snake Game Repo View -->
 
 <div align="center">
